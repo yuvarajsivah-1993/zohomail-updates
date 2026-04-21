@@ -29,8 +29,8 @@
         .content{position:relative;z-index:3;display:flex;flex-direction:column;align-items:center;justify-content:center;height:100vh;text-align:center;padding:20px}
 
         /* ── Logo icon ── */
-        .logo{width:120px;height:120px;border-radius:27px;background:#fff;display:flex;align-items:center;justify-content:center;margin-bottom:28px;box-shadow:0 8px 40px rgba(0,0,0,.3),0 0 60px rgba(99,102,241,.2);animation:float 4s ease-in-out infinite;position:relative;overflow:hidden}
-        .logo svg.app-icon{width:80px;height:80px}
+        .logo{width:120px;height:120px;border-radius:27px;display:flex;align-items:center;justify-content:center;margin-bottom:28px;box-shadow:0 8px 40px rgba(0,0,0,.3),0 0 60px rgba(99,102,241,.2);animation:float 4s ease-in-out infinite;position:relative;overflow:hidden}
+        .logo img{width:120px;height:120px;border-radius:27px;object-fit:cover}
         @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
 
         h1{font-size:56px;font-weight:800;letter-spacing:-.03em;background:linear-gradient(135deg,#f0f0f5 0%,#a5b4fc 50%,#818cf8 100%);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;margin-bottom:12px}
@@ -88,14 +88,7 @@
     <!-- Main content -->
     <div class="content">
         <div class="logo fade-up d1">
-            <svg class="app-icon" viewBox="0 0 691 691" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <!-- Blue mail outline -->
-                <path d="M667.212 238.835L383.317 13.5969C372.572 5.08203 359.056 0.351562 345.338 0.351562C331.62 0.351562 318.104 5.08203 307.359 13.5969L23.5309 238.767C8.86641 250.458 0.419141 267.893 0.419141 286.612V355.812C0.419141 378.451 12.7859 399.13 32.7891 409.74L316.685 560.709C334.661 570.305 356.083 570.305 374.059 560.709L555.709 463.938L556.993 463.262C566.791 457.991 570.576 445.759 565.305 435.893C560.034 426.094 547.802 422.309 537.936 427.58L527.258 433.257L355.002 525.028C348.92 528.272 341.689 528.272 335.607 525.028L51.7109 374.059C44.9531 370.409 40.7633 363.449 40.7633 355.812V286.612C40.7633 280.26 43.6691 274.381 48.6023 270.461L332.498 45.291C340.067 39.2766 350.609 39.2766 358.178 45.291L641.938 270.529C646.939 274.448 649.777 280.328 649.777 286.68V628.963C649.777 640.316 640.519 649.575 629.166 649.575H61.3746C50.0215 649.575 40.7633 640.316 40.7633 628.963V467.654C40.7633 456.504 31.7078 447.448 20.5574 447.448C9.40703 447.448 0.351562 456.504 0.351562 467.654V628.963C0.351562 662.685 27.7883 690.054 61.4422 690.054H629.234C662.887 690.054 690.257 662.617 690.324 628.963V286.68C690.324 267.893 681.877 250.458 667.212 238.835Z" fill="#226DB4"/>
-                <!-- Yellow envelope -->
-                <g transform="translate(123, 274)">
-                    <path d="M431.753 3.33203L227.045 128.887C224.173 130.648 220.501 130.648 217.629 128.887L12.9218 3.33203C10.8538 2.0623 8.48755 1.38467 6.07155 1.37109H5.32936C2.58401 1.37109 0.351562 3.60354 0.351562 6.34889V184.012C0.351562 187.107 2.86061 189.616 5.95561 189.616H438.736C441.831 189.616 444.34 187.107 444.34 184.012V6.27734C444.34 3.53199 442.107 1.29954 439.362 1.29954H438.603C436.19 1.31603 433.827 1.99479 431.753 3.33203Z" fill="#F9B21D"/>
-                </g>
-            </svg>
+            <img src="zohomail_logo.png" alt="Zoho Mail" width="120" height="120" />
         </div>
         <h1 class="fade-up d2">Zoho Mail</h1>
         <p class="tagline fade-up d3">A blazing-fast, native email experience built for macOS</p>
