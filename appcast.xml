@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
         <title>Zoho Mail Updates</title>
+        <link>https://yuvarajsivah-1993.github.io/zohomail-updates/appcast.xml</link>
+        <description>Zoho Mail for macOS Updates</description>
         <language>en</language>
+        <item>
+            <title>Version 1.0</title>
+            <pubDate>Mon, 21 Apr 2026 00:00:00 +0000</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>Zoho Mail 1.0</h2>
+                <ul>
+                    <li>Initial release of the all-new native macOS Zoho Mail client</li>
+                    <li>Blazing-fast SwiftUI interface</li>
+                    <li>Full email, calendar, contacts, and notes support</li>
+                    <li>Automatic updates via Sparkle</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://yuvarajsivah-1993.github.io/zohomail-updates/ZohoMail.dmg"
+                       sparkle:edSignature="J1p7ziq6SPDRqbckVz+RKhe/ULWUgqokQkkBE1DcdINEJ9+G7OkohSokThwTS/j0mKnm3HXxTnUPkrzgqB4wBg=="
+                       length="35860226"
+                       type="application/octet-stream" />
+        </item>
     </channel>
 </rss>
