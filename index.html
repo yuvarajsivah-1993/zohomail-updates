@@ -193,16 +193,19 @@
             if(items.length>0){
                 var item=items[0];
                 var enc=item.querySelector('enclosure');
-                var ver=item.querySelector('shortVersionString');
+                var ns='http://www.andymatuschak.org/xml-namespaces/sparkle';
+                var ver=item.getElementsByTagNameNS(ns,'shortVersionString')[0];
                 var v=ver?ver.textContent:'';
                 if(enc)document.getElementById('downloadLink').href=enc.getAttribute('url');
-                if(v)document.getElementById('versionInfo').textContent='Version '+v+' — Latest';
+                if(v){
+                    document.getElementById('versionInfo').textContent='Version '+v+' — Latest';
+                }else{
+                    document.getElementById('versionInfo').textContent='Latest Release';
+                }
             }
         })
         .catch(function(){
-            document.getElementById('versionInfo').textContent='Coming soon';
-            document.getElementById('downloadLink').style.opacity='.5';
-            document.getElementById('downloadLink').style.pointerEvents='none';
+            document.getElementById('versionInfo').textContent='Latest Release';
         });
     </script>
 </body>
