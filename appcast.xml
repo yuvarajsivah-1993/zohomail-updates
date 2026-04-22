@@ -6,6 +6,27 @@
         <description>Zoho Mail for macOS Updates</description>
         <language>en</language>
         <item>
+            <title>Version 1.1.0</title>
+            <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>Zoho Mail 1.1.0</h2>
+                <ul>
+                    <li>New Discover banner carousel with feature tips</li>
+                    <li>Notification permission prompt from banner</li>
+                    <li>App Lock and Menu Bar quick-enable banners</li>
+                    <li>Sparkle auto-update reliability improvements</li>
+                    <li>Bug fixes and performance improvements</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://yuvarajsivah-1993.github.io/zohomail-updates/ZohoMail.dmg"
+                       sparkle:edSignature="HY3knKySVAgemHu3je8USu0IffgL3OKweeSY1KNsLGNOBFWisYXH3yloTMXdqq+S/HeurjEFK/u51SE+wgeZCw=="
+                       length="36883136"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 1.0</title>
             <pubDate>Mon, 21 Apr 2026 00:00:00 +0000</pubDate>
             <sparkle:version>1</sparkle:version>
