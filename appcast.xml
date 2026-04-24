@@ -21,29 +21,9 @@
                     <li>Bug fixes and performance improvements</li>
                 </ul>
             ]]></description>
-            <enclosure url="https://yuvarajsivah-1993.github.io/zohomail-updates/ZohoMail.dmg"
+            <enclosure url="https://yuvarajsivah-1993.github.io/zohomail-updates/ZohoMail-1.1.0.dmg"
                        sparkle:edSignature="HY3knKySVAgemHu3je8USu0IffgL3OKweeSY1KNsLGNOBFWisYXH3yloTMXdqq+S/HeurjEFK/u51SE+wgeZCw=="
                        length="36883136"
-                       type="application/octet-stream" />
-        </item>
-        <item>
-            <title>Version 1.0</title>
-            <pubDate>Mon, 21 Apr 2026 00:00:00 +0000</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-                <h2>Zoho Mail 1.0</h2>
-                <ul>
-                    <li>Initial release of the all-new native macOS Zoho Mail client</li>
-                    <li>Blazing-fast SwiftUI interface</li>
-                    <li>Full email, calendar, contacts, and notes support</li>
-                    <li>Automatic updates via Sparkle</li>
-                </ul>
-            ]]></description>
-            <enclosure url="https://yuvarajsivah-1993.github.io/zohomail-updates/ZohoMail.dmg"
-                       sparkle:edSignature="J1p7ziq6SPDRqbckVz+RKhe/ULWUgqokQkkBE1DcdINEJ9+G7OkohSokThwTS/j0mKnm3HXxTnUPkrzgqB4wBg=="
-                       length="35860226"
                        type="application/octet-stream" />
         </item>
     </channel>
