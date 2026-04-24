@@ -3,6 +3,20 @@
     <channel>
         <title>Zoho Mail</title>
         <item>
+            <title>1.2.1</title>
+            <pubDate>Thu, 24 Apr 2026 18:30:00 +0530</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li>Removed duplicate onboarding screen — login now goes directly to the sign-in page</li>
+                    <li>DMG now includes Applications shortcut for easy drag-to-install</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://yuvarajsivah-1993.github.io/zohomail-updates/ZohoMail-1.2.1.dmg" length="44686281" type="application/octet-stream" sparkle:edSignature="hFwYNeRLDkootglNt0pteAtXpdOXLcMYyfdVl89okL/VPFC+4CLo+THPod3wm4f/QBeC2ElTvZv6W7pjoWrDCA=="/>
+        </item>
+        <item>
             <title>1.2.0</title>
             <pubDate>Thu, 24 Apr 2026 11:30:00 +0530</pubDate>
             <sparkle:version>4</sparkle:version>
