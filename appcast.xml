@@ -3,6 +3,22 @@
     <channel>
         <title>Zoho Mail</title>
         <item>
+            <title>1.2.3</title>
+            <pubDate>Sun, 27 Apr 2026 18:00:00 +0530</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.2.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li>Fixed crash caused by CoreData merge conflicts during background mail prefetch</li>
+                    <li>Fixed app not loading data on relaunch (account loading race condition)</li>
+                    <li>Fixed contact suggestions sorting by relevance instead of alphabetical</li>
+                    <li>Fixed Settings button in account dropdown menu</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://yuvarajsivah-1993.github.io/zohomail-updates/ZohoMail-1.2.3.dmg" length="45478536" type="application/octet-stream" sparkle:edSignature="eoxH8yunKnG1BlLmKCb3vtbZGsozXP3fCTOqowyHUogJic1fGqlIl0oyoMcUhELDw2dkr226JbRCVEVVBc7ICA=="/>
+        </item>
+        <item>
             <title>1.2.2</title>
             <pubDate>Sun, 27 Apr 2026 10:30:00 +0530</pubDate>
             <sparkle:version>6</sparkle:version>
