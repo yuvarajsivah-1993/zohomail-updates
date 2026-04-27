@@ -3,6 +3,19 @@
     <channel>
         <title>Zoho Mail</title>
         <item>
+            <title>1.2.2</title>
+            <pubDate>Sun, 27 Apr 2026 10:30:00 +0530</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li>Fixed duplicate draft saves — drafts now save only on manual save (⌘S) or window close</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://yuvarajsivah-1993.github.io/zohomail-updates/ZohoMail-1.2.2.dmg" length="45319349" type="application/octet-stream" sparkle:edSignature="DuINezCS2g6SQ/jwZQ0yrIJNQQmeXmfYmR6h4PBVUit2Qb26Ljs7f97uASf4j5AINRxbDkEmOPEroyUnk3lgAA=="/>
+        </item>
+        <item>
             <title>1.2.1</title>
             <pubDate>Thu, 24 Apr 2026 18:30:00 +0530</pubDate>
             <sparkle:version>5</sparkle:version>
