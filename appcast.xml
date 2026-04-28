@@ -3,6 +3,15 @@
     <channel>
         <title>Zoho Mail</title>
         <item>
+            <title>1.2.4</title>
+            <pubDate>Wed, 29 Apr 2026 01:01:47 +0530</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.2.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>What's New in v1.2.4:<br><br><b>Chat Module (Beta)</b><br>• Full chat experience with direct messages, group chats, and channels<br>• @Mentions — see who mentioned you with unread indicators in the sidebar<br>• Starred Messages — star messages with 5 categories (Important, To-do, Note, Manager, Follow-up)<br>• Click any mention or starred message to jump directly to it with a highlight animation<br>• Pinned chats shown in a dedicated sidebar section<br>• Real-time messaging via WebSocket (PEX)<br>• Unread filter toggle in the toolbar<br><br><b>Bug Fixes</b><br>• Fixed @mentions API parsing — mentions now load correctly<br>• Fixed starred messages not showing all star types<br>• Fixed mark-as-unread using wrong HTTP method (POST→PUT)<br>• Fixed pagination spinner with unread filter active<br>• Pinned chats no longer duplicated in the main chat list</p>]]></description>
+            <enclosure url="https://yuvarajsivah-1993.github.io/zohomail-updates/ZohoMail-1.2.4.dmg" length="50413899" type="application/octet-stream" sparkle:edSignature="t104xs3lXckWD3r60MwEyr1GOc9+SXQcdTDUn7mKaYm1Fj5hNzYnHQSWLwzkkiZc1K6IC2vQihY9Ghz5IIoiCw=="/>
+        </item>
+        <item>
             <title>1.2.3</title>
             <pubDate>Sun, 27 Apr 2026 18:00:00 +0530</pubDate>
             <sparkle:version>7</sparkle:version>
