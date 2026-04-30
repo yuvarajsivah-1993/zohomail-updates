@@ -3,6 +3,15 @@
     <channel>
         <title>Zoho Mail</title>
         <item>
+            <title>1.2.5</title>
+            <pubDate>Thu, 30 Apr 2026 19:42:13 +0530</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.2.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>What's New in v1.2.5:<br><br><b>Audio & Video Calls</b><br>• 1-on-1 audio and video calling with full WebRTC support<br>• Group conference calls with multi-participant layout<br>• Call controls: mute, camera toggle, screen share, speaker selection<br>• Incoming call notifications with accept/decline<br><br><b>Custom App Icon</b><br>• Telegram-style icon switcher — choose from 4 icon variants<br>• Custom icon appears everywhere: Dock, Finder, Spotlight, Launchpad<br>• Persists across restarts; auto-restores after updates<br><br><b>Chat Improvements</b><br>• Improved message bubble rendering and layout<br>• Optimized chat list scroll performance (6 fixes)<br><br><b>Bug Fixes</b><br>• Fixed several stability and performance issues<br>• Improved memory usage in chat module</p>]]></description>
+            <enclosure url="https://yuvarajsivah-1993.github.io/zohomail-updates/ZohoMail-1.2.5.dmg" length="71934704" type="application/octet-stream" sparkle:edSignature="I6nurChQxwTe94bT540txGakp6FV1iM3pcRu/QZ5l9HM37LkpFmb8aqWTnJYcikVWJDNxmPTFDiEv9y8KczyCw=="/>
+        </item>
+        <item>
             <title>1.2.4</title>
             <pubDate>Wed, 29 Apr 2026 01:01:47 +0530</pubDate>
             <sparkle:version>8</sparkle:version>
