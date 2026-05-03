@@ -3,6 +3,15 @@
     <channel>
         <title>Zoho Mail</title>
         <item>
+            <title>1.2.6</title>
+            <pubDate>Sun, 04 May 2026 01:30:00 +0530</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.2.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>What's New in v1.2.6:<br><br><b>Audio & Video Conferencing</b><br>• Full group conference support with grid, speaker, and filmstrip views<br>• Live reactions and gesture recognition during calls<br>• Host controls: mute all, lock meeting, waiting room<br>• Screen sharing with participant indicators<br>• Bandwidth-adaptive video quality and grid subscription management<br><br><b>Chat Stability & UX</b><br>• Fixed crash when switching conversations rapidly<br>• Fixed double-loading issue on conversation selection<br>• Fixed avatar colors inconsistent between chat list and detail view<br>• Enhanced image paste support (clipboard and file drops now work reliably)<br>• Sidebar alignment improvements — consistent padding across modules<br><br><b>New Features</b><br>• Update your online status in Cliq directly from the sidebar<br>• Presence status menu now accessible from sidebar<br>• Improved attachment preview handling<br>• Mail sidebar refinements</p>]]></description>
+            <enclosure url="https://yuvarajsivah-1993.github.io/zohomail-updates/ZohoMail-1.2.6.dmg" length="50825888" type="application/octet-stream" sparkle:edSignature="AEKbm1O4Z2CoIawvICv7eLr7que1j0x7yxHh3G6tAuyivNhumkDsxKSrTbNnAoiZQIn+xE1ebRd64zedao6IDw=="/>
+        </item>
+        <item>
             <title>1.2.5</title>
             <pubDate>Thu, 30 Apr 2026 19:42:13 +0530</pubDate>
             <sparkle:version>9</sparkle:version>
